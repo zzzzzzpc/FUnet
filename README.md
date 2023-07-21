@@ -1,6 +1,6 @@
 
 # 🏥 FUnet
-### The official core implementation of *"Spinal nerve segmentation method and dataset construction in endoscopic surgical scenarios"* in MICCAI 2023. 🎉 [arXiv Version](https://arxiv.org/ftp/arxiv/papers/2307/2307.10955.pdf)
+### The official core implementation of *"Spinal nerve segmentation method and dataset construction in endoscopic surgical scenarios"* in MICCAI 2023. 🎉 [arXiv Version](https://arxiv.org/abs/2307.10955)
 ![image](https://github.com/zzzzzzpc/FUnet/assets/45305834/dd93eb98-9001-4846-a3d0-e7ea8e5afe70)
 
 ## 💻 Enviroment
