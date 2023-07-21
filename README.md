@@ -12,8 +12,8 @@ torchvision >= 0.3.0
 ## Dataset
 Nerve Dataset download: [BaiduYun]()
 The labeled part: 
-Validset: 5321-6200, 12601-12800 frame
-Testset: 6401-6600, 6601-6800, 6801-7000, 12801-13000 frame
+Validset: 5321-6200, 12601-12800 frame  
+Testset: 6401-6600, 6601-6800, 6801-7000, 12801-13000 frame  
 
 ## Citation
 ```
