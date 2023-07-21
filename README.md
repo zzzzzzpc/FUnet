@@ -1,8 +1,7 @@
 
 # 🏥 FUnet
 ### The official core implementation of *"Spinal nerve segmentation method and dataset construction in endoscopic surgical scenarios"* in MICCAI 2023. 🎉 [arXiv Version](https://arxiv.org/ftp/arxiv/papers/2307/2307.10955.pdf)
-
-<img src="https://github.com/zzzzzzpc/FUnet/assets/45305834/1f58e507-4ed6-42bb-9eb4-37dabc3da14d" style="zoom:10%" />
+![image](https://github.com/zzzzzzpc/FUnet/assets/45305834/dd93eb98-9001-4846-a3d0-e7ea8e5afe70)
 
 ## 💻 Enviroment
 Anaconda is recommended:  
@@ -12,7 +11,8 @@ torch >= 1.1.0
 torchvision >= 0.3.0  
 ```
 
-## 📂 Dataset
+## 📂 Dataset  
+![image](https://github.com/zzzzzzpc/FUnet/assets/45305834/b9d80132-cd61-4017-ae67-7aee523e60f2)
 **The labeled part**: [BaiduYun]()  
 In the paper, the following sequences of the above data are used as test and validation sets：  
 - **Validset**: 5321-6200, 12601-12800 frame    
